@@ -114,9 +114,8 @@ const AboutPage = () => {
             yet beautiful applications with great user experience and back-end functionalities.
             <br />
             <br/>
-            I'm interested in the whole frontend & backend stack Like trying new things
-            and building great projects. I'm an independent freelancer.
-            I love to work on personal projects and explore new technologies during my free time. <br />
+            I'm passionate about the entire frontend and backend stack, as well as creating remarkable applications. I'm a self-employed freelancer. 
+            In my spare time, I enjoy working on personal projects and learning about new technologies.<br />
             <br />I believe everything is an Art when you put your consciousness
             in it. You can connect with me via social links.{' '}
           </Main>

@@ -51,7 +51,7 @@ const Main = styled(motion.div)`
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: calc(0.6rem + 1vw);
+  font-size: calc(0.5rem + 1vw);
  backdrop-filter: blur(4px);
   
   position: absolute;
@@ -110,11 +110,11 @@ const AboutPage = () => {
           <Main
             initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}>
-            I'm a Full-Stack Web & Mobile developer and a data enthusiast. I love to create simple
-            yet beautiful applications with great user experience and back-end functionalities.
+            I'm a data fanatic and a full-stack web and mobile developer. I enjoy creating simple yet elegant
+            programs with excellent user interfaces and back-end functionality.
             <br />
             <br/>
-            I'm passionate about the entire frontend and backend stack, as well as creating remarkable applications. I'm a self-employed freelancer. 
+            I'm passionate about frontend and backend development, as well as building amazing apps. I'm a self-employed freelancer. 
             In my spare time, I enjoy working on personal projects and learning about new technologies.<br />
             <br />I believe everything is an Art when you put your consciousness
             in it. You can connect with me via social links.{' '}

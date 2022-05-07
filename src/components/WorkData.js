@@ -11,7 +11,8 @@ export const Work = [
     {
         id:2,
         name:"Kirundi Dictionary (Android App)",
-        description:"search filter and a description pop-up is opened by tapping on the word with detailed information",
+        description:"A database with over 3000 words that features three languages which translates from French to Kirundi and English to Kirundi,
+        It includes a search filter and a description pop-up is opened by tapping on the word with detailed information",
         
         tags:["Kotlin","MySQL","Android Studio"],
         

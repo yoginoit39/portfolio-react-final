@@ -6,7 +6,7 @@ export const Work = [
         tags:["Wordpress","Elementor","Graphics Design"],
         
         demo:"https://tetradesignandconcepts.com/",
-        //github:"https://github.com/codebucks27/Agency-website"
+        //github:""
     },
     {
         id:2,
@@ -16,7 +16,7 @@ export const Work = [
         tags:["Kotlin","MySQL","Android Studio"],
         
         demo:"https://play.google.com/store/apps/details?id=gateka.armel.kirdictionary",
-        //github:"https://github.com/codebucks27/react-job-listing-website"
+        //github:""
         
     },
     {
@@ -26,7 +26,7 @@ export const Work = [
         tags:["Bootstrap","Php","Msql"],
         
         demo:"https://github.com/yoginoit39/vms_project.git",
-        //github:"https://github.com/codebucks27/devto-clone"
+        //github:""
     },
     {
         id:4,
@@ -35,18 +35,10 @@ export const Work = [
         tags:["Bootstrap","Php","Msql"],
         
         demo:"https://github.com/yoginoit39/Travel-Connection.git",
-       // github:"https://github.com/codebucks27/react-sidebar"
+       // github:""
        
      },
-    //{
-    //     id:5,
-    //     name:"Todo App(React + Redux)",
-    //     description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-    //     tags:["react","redux","framer-motion"],
-        
-    //     demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-    //     //github:"https://github.com/codebucks27/React-Redux-Todo-App"
-        
+    
     // },
     // {
     //     id:6,
